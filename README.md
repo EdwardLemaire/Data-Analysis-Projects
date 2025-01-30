@@ -36,7 +36,9 @@ A summary of key insights and takeaways
 📬 Let's Connect
 
 LinkedIn: https://www.linkedin.com/in/cillian-lemaire/
+
 Email: cillianlemaire@gmail.com
+
 Portfolio: [Your Website (if available)]
 
 Feel free to explore the projects and reach out if you’d like to discuss data, analytics, or potential collaborations! 🚀
