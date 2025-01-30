@@ -1,3 +1,5 @@
+# 📊 Data Analysis Portfolio – Edward Cillian Lemaire
+
 Welcome to my Data Analysis Portfolio! This repository showcases my journey in data analysis, featuring projects that highlight my skills in data cleaning, visualization, and insights generation.
 
 🚀 About Me
