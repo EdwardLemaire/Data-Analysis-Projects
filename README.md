@@ -12,6 +12,7 @@ Business & Marketing Analytics: Consumer behavior analysis, campaign performance
 
 
 📂 Projects
+
 1️⃣ Customer Segmentation Analysis
 Used clustering techniques to group customers based on purchasing behavior.
 Visualized key insights to inform marketing strategies.
@@ -25,18 +26,21 @@ Analyzed test results to determine the effectiveness of different marketing stra
 Applied statistical testing to validate results.
 
 📈 How to Use This Repo
+
 Each project folder contains:
 
 A Jupyter Notebook or script with the full analysis
 A dataset (or link to the data source)
 A summary of key insights and takeaways
+
 📬 Let's Connect
-LinkedIn: [Your LinkedIn Profile]
-Email: [Your Email]
+
+LinkedIn: https://www.linkedin.com/in/cillian-lemaire/
+Email: cillianlemaire@gmail.com
 Portfolio: [Your Website (if available)]
+
 Feel free to explore the projects and reach out if you’d like to discuss data, analytics, or potential collaborations! 🚀
 
-Would you like to personalize it further with specific project links or additional details?
 
 
 
