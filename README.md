@@ -8,11 +8,11 @@ I have a background in marketing and product development, with a strong passion 
 
 🛠️ Skills & Tools
 
-Data Analysis: Exploratory Data Analysis (EDA), statistical analysis, A/B testing
-Data Visualization: Matplotlib, Seaborn, Power BI, Tableau
-Programming: Python (Pandas, NumPy, Scikit-learn), SQL
-Data Wrangling: Cleaning and preprocessing datasets
-Business & Marketing Analytics: Consumer behavior analysis, campaign performance tracking
+**Data Analysis:** Exploratory Data Analysis (EDA), statistical analysis, A/B testing
+**Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau
+**Programming:** Python (Pandas, NumPy, Scikit-learn), SQL
+**Data Wrangling:** Cleaning and preprocessing datasets
+**Business & Marketing Analytics:** Consumer behavior analysis, campaign performance tracking
 
 
 📂 Projects
