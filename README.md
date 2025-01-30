@@ -3,9 +3,11 @@
 Welcome to my Data Analysis Portfolio! This repository showcases my journey in data analysis, featuring projects that highlight my skills in data cleaning, visualization, and insights generation.
 
 🚀 About Me
+
 I have a background in marketing and product development, with a strong passion for data-driven decision-making. My experience in brand management and strategy has equipped me with the ability to translate raw data into meaningful insights that drive business growth. Now, I’m transitioning into a data-focused role, combining my analytical mindset with my expertise in storytelling and problem-solving.
 
 🛠️ Skills & Tools
+
 Data Analysis: Exploratory Data Analysis (EDA), statistical analysis, A/B testing
 Data Visualization: Matplotlib, Seaborn, Power BI, Tableau
 Programming: Python (Pandas, NumPy, Scikit-learn), SQL
